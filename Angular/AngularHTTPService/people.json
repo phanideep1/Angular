@@ -1,0 +1,24 @@
+﻿{
+  "records": [
+
+    {
+      "Name": "Phani",
+      "Age": 24
+    },
+
+    {
+      "Name": "Rahul",
+      "Age": 23
+    },
+
+    {
+      "Name": "Sudheer",
+      "Age": 25
+    },
+
+    {
+      "Name": "Raja",
+      "Age": 26
+    }
+  ]
+}
